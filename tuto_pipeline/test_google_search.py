@@ -18,7 +18,7 @@ def driver():
     yield d
     d.quit()
     
-    
+                                        
 
 
 @allure.epic("Moteurs de recherche")

@@ -17,6 +17,8 @@ def driver():
     d.maximize_window()
     yield d
     d.quit()
+    
+    
 
 
 @allure.epic("Moteurs de recherche")

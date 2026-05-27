@@ -1,1 +1,1 @@
-[{"uid":"c4c3779a2493ef6e","name":"Recherche Google - Julius KONAN","time":{"start":1778817232810,"stop":1778817244092,"duration":11282},"status":"passed","severity":"normal"}]
+[{"uid":"73def79d25b5b1a8","name":"Recherche Google - Julius KONAN","time":{"start":1778820378524,"stop":1778820397270,"duration":18746},"status":"passed","severity":"critical"},{"uid":"9e202033bfa4d734","name":"Recherche DuckDuckGo - Julius KONAN","time":{"start":1779855723806,"stop":1779855729129,"duration":5323},"status":"passed","severity":"critical"}]

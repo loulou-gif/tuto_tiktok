@@ -1,3 +1,2 @@
-/venv
+venv
 .pytest_cache
-/tuto_pipeline/__pycache__
